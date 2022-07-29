@@ -10,4 +10,4 @@ app.use(createPinia());
 app.use(router);
 
 app.mount("#app");
-// TODO mahima axnusic nadika
+// TODO mahima running vue app
